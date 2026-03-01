@@ -1,0 +1,16 @@
+[
+  "esbuild",
+  "electron",
+  "electron-vite",
+  "@biomejs/biome",
+  "@tailwindcss/oxide",
+  "electron-winstaller",
+  "better-sqlite3",
+  "bcrypt",
+  "jsonwebtoken",
+  "uuid",
+  "qrcode",
+  "@tsparticles/engine",
+  "react-tsparticles",
+  "tsparticles-engine"
+]
